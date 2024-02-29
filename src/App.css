@@ -1,0 +1,14 @@
+@font-face {
+    font-family: neu;
+    src: url(../public/neue-haas-grotesk-display-pro-cufonfonts/NeueHaasDisplayMediu.ttf);
+}
+*{
+    position: relative;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}
+
+
+
+
